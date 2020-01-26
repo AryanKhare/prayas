@@ -18,12 +18,7 @@
 }
 
 /* Carousel */
-@media (max-width: 568px) {
-  .carouselImg{
-    height: 7rem;
-    width: 100%
-  }
-}
+
 
 
 /* Quote */
